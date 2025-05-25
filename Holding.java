@@ -7,6 +7,7 @@ public class Holding {
         this.quantity = quantity;
     }
 
+    
     public int getQuantity() {
         return quantity;
     }
